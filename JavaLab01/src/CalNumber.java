@@ -3,7 +3,7 @@ public class CalNumber {
 	
 	public static void main(String[] args) {
 		//TODO Auto-generated method stub
-		System.out.println("Nattapon Chatsuwan");
+		System.out.println("Nattapon");
 		int x = 9, y = 3, sum = 0;
 		sum = ++x - y--;
 		System.out.println("Sum 1: " + sum);
